@@ -65,4 +65,4 @@ var age = 25;
 var status = (age >= 18) ? 'Adult' : 'Minor';
 
 console.log(status); // If age is 18 or older, 'Adult'; otherwise, 'Minor'
-/*                                               I hope I was able to make you understand the concept of variables in Javascript                                                 */
+/*                                               I hope I was able to make you understand the concept of conditional statements in Javascript                                                 */
