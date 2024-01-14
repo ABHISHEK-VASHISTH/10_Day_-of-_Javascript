@@ -1,0 +1,7 @@
+//Loops and strings:-
+/*
+    Loops:-
+     > 
+     >
+     >
+ */
