@@ -9,10 +9,10 @@ console.log("total: ",number);
 
 //ask the user weather he can guess the right number or not:-
  let guessnum=35;
- let usernumber=prompt("guess the number= ");
+ let usernumber=prompt("guess the number = ");
 
-while(usernumber!==guessnum){
-    console.log("RETRY");
+while(usernumber != guessnum){
+    usernumber=prompt("guess the number again = ");
 
  }
 console.log("you won the match")
