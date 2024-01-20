@@ -4,6 +4,8 @@
      > For loop
      > While loop
      > do....while loop
+     >for-of loop
+     >for-in loop
  */
 //For Loop
 for (initialization; condition; iteration) {
@@ -30,6 +32,16 @@ do {
     console.log(i);
     i++;
   } while (i < 5);
+//for-of loop (generlly used for the strings and arrays)
+let name="Abhishek";
+let size=0;
+
+for(let i of name){
+  console.log("i=",i);
+  size++;
+}
+console.log("The total size od the string is: ",size);
+
 //We have some loop control statements as well those are:-
 //  > Break :- This helps the user to come out of a loop.
 //  > Continue :- This helps the user to skip a perticular iteration.
@@ -43,5 +55,6 @@ for (let i = 0; i < 5; i++) {
     }
     console.log(i);
   }
+
   
 /*                                               I hope I was able to make you understand the concept of loops in Javascript                                                 */
