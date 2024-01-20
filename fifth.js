@@ -41,6 +41,17 @@ for(let i of name){
   size++;
 }
 console.log("The total size od the string is: ",size);
+//for-in loop (Gerenally used fort he arrays operation or to work with the objects.)
+let student={
+  name:"Vickey kaushal",
+  age:20,
+  CGPA:8.5,
+  isPass:true,
+};
+
+for(let key in student){
+  console.log("key = ",key,"Value = ",student[key]);
+}
 
 //We have some loop control statements as well those are:-
 //  > Break :- This helps the user to come out of a loop.
