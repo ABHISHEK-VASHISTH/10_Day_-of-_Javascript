@@ -33,6 +33,8 @@ let slicedArray = myArray.slice(1, 3);//slice the array prints only 1-3
 
 let index = myArray.indexOf(76);//Returns the first index at which a given element is found in the array.
 
+console.log(myArray);
+
 
 /*                                               I hope I was able to make you understand the concept of arrays in Javascript                                                 */
 
