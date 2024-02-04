@@ -1,4 +1,4 @@
-// we were give a question that we were given an array:-
+// There is a question which says that:-
 //["Bloomberg","Microsoft","Uber","Google","IBM","Netflix"]
 // we have to do :-
 //Remove the first company from the array.
