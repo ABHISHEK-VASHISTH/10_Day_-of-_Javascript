@@ -1,4 +1,4 @@
-//here we are going to learn about functions in javascript:-
+//Here we are going to learn about functions in javascript:-
 
 
 
