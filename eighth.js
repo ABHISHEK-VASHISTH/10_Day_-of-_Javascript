@@ -5,6 +5,4 @@
 
 
 
-
-
 /*                                               I hope I was able to make you understand the concept of variables in Javascript                                                 */
